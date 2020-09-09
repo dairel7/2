@@ -30,3 +30,14 @@ nav {
 .one a:hover {background: #b19891;}
 .one li {
   display: inline;
+}
+
+.two {
+text-align: center;
+background-color: #BC8F8F;
+color: #695753;
+font-size: 25px;
+width: 100%;
+height: 50%;
+}
+
